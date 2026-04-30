@@ -52,6 +52,9 @@ npm run dev
 
 Открыть <http://localhost:3000>.
 
+### ссылка на сайт
+https://radio-hack-t-loyalty.vercel.app/login
+
 ### Тесты бэка
 ```bash
 cd backend
