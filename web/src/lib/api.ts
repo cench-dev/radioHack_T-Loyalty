@@ -1,4 +1,4 @@
-const API_URL = 'https://loyalty-backend.onrender.com';
+const API_URL = 'https://radiohack-t-loyalty-3.onrender.com';
 
 export class ApiError extends Error {
   constructor(public status: number, message: string) {
