@@ -8,6 +8,6 @@ numpy==2.1.2
 scikit-learn==1.5.2
 python-dotenv==1.0.1
 python-multipart==0.0.12
-anthropic==0.39.0
+gigachat==0.2.1
 pytest==8.3.3
 httpx==0.27.2
